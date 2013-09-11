@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int main(int arc, char *argv[])
+int main(int argc, char *argv[])
 {
   int bugs = 100;
   double bug_rate = 1.2;
